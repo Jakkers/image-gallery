@@ -23,7 +23,7 @@ An assignment to create an image gallery with full accessibility and image optim
 
 (Optional)
 🏹 Feel free to add any other reflections you would like to share about your submission e.g.
-• I have to give thanks to Manny, Joe, Alex, Theo and Richard for taking the time to explain things, collaborate, and share insights.
+• I have to give thanks to Manny, Joe, Alex, Theo, Richard, Tejeri and Demie for taking the time to explain things, collaborate, and share insights.
 • A few of us jumped on the discord channel to discuss over the weekend and that really helped to get past blocks.
 
 What went really well and what could have gone better?
