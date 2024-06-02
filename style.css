@@ -77,11 +77,8 @@
 
 @media (width <= 425px) {
   #thumbnail-container {
-    /* height: 0;
-    width: 0; */
     display: flex;
     position: fixed;
-    /* bottom: 0; */
     top: revert;
     bottom: 0;
     flex-direction: row;
